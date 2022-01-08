@@ -49,12 +49,13 @@
 - [Redis分布式锁](https://img.caoyuqian.cn/Redis分布式锁.png)
 - [为什么单线程的 Redis 能那么快?](https://img.caoyuqian.cn/为什么单线程的Redis能那么快?.png)
 - [影响 Redis性能的5大方面的潜在因素](https://img.caoyuqian.cn/影响Redis性能的5大方面的潜在因素.png)
+- [Redis6.0新特性](https://img.caoyuqian.cn/Redis6.0新特性.png)
 
 ## :icecream:Distributed
 
 - [Raft共识算法](https://img.caoyuqian.cn/Raft.png)
 
-## :balloon::Docker
+## :balloon:Docker
 
 - [浅谈容器](https://img.caoyuqian.cn/容器.png)
 
