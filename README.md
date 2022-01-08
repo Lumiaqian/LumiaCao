@@ -47,7 +47,7 @@
 - [Redis高可用](https://img.caoyuqian.cn/Redis高可用.png)
 - [Redis缓存](https://img.caoyuqian.cn/Redis缓存.png)
 - [Redis分布式锁](https://img.caoyuqian.cn/Redis分布式锁.png)
-- [为什么单线程的 Redis 能那么快?](https://img.caoyuqian.cn/为什么单线程的Redis能那么快?.png)
+- [为什么单线程的 Redis 能那么快?](https://img.caoyuqian.cn/为什么单线程的Redis能那么快.png)
 - [影响 Redis性能的5大方面的潜在因素](https://img.caoyuqian.cn/影响Redis性能的5大方面的潜在因素.png)
 - [Redis6.0新特性](https://img.caoyuqian.cn/Redis6.0新特性.png)
 
