@@ -14,7 +14,7 @@
   * [MQ](#fish_cakemq)
     * [Kafka](#kafka)
 
-## **:bamboo:**Database
+## :bamboo:Database
 
 ### MySQL
 
@@ -24,17 +24,17 @@
 
 - [MySQL日志](https://img.caoyuqian.cn/MySQL日志.png)
 
-- [UndoLog与MVCC](https://img.caoyuqian.cn/undo log与MVCC.png)
+- [UndoLog与MVCC](https://img.caoyuqian.cn/UndoLog与MVCC.png)
 
 - [MySQL事务](https://img.caoyuqian.cn/MySQL%E4%BA%8B%E5%8A%A1.png)
 
 - [MySQL锁](https://img.caoyuqian.cn/MySQL%E9%94%81.png)
 
-- [幻读和间隙锁Gap Lock](https://img.caoyuqian.cn/幻读和间隙锁（Gap Lock）.png)
+- [幻读和间隙锁GapLock](https://img.caoyuqian.cn/幻读和间隙锁GapLock.png)
 
 - [加锁规则](https://img.caoyuqian.cn/加锁规则.png)
 
-- [浅析orderby原理](https://img.caoyuqian.cn/order by.png)
+- [浅析orderby原理](https://img.caoyuqian.cn/orderby.png)
 
 - [浅析join原理](https://img.caoyuqian.cn/JOIN原理.png)
 
@@ -47,8 +47,8 @@
 - [Redis高可用](https://img.caoyuqian.cn/Redis高可用.png)
 - [Redis缓存](https://img.caoyuqian.cn/Redis缓存.png)
 - [Redis分布式锁](https://img.caoyuqian.cn/Redis分布式锁.png)
-- [为什么单线程的 Redis 能那么快?](https://img.caoyuqian.cn/为什么单线程的 Redis 能那么快？.png)
-- [影响 Redis性能的5大方面的潜在因素](https://img.caoyuqian.cn/影响 Redis 性能的 5 大方面的潜在因素.png)
+- [为什么单线程的 Redis 能那么快?](https://img.caoyuqian.cn/为什么单线程的Redis能那么快?.png)
+- [影响 Redis性能的5大方面的潜在因素](https://img.caoyuqian.cn/影响Redis性能的5大方面的潜在因素.png)
 
 ## :icecream:Distributed
 
