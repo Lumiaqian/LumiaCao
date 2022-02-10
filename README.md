@@ -3,15 +3,15 @@
 使用XMind记录一些基础知识，方便自己回顾复习
 
 ## :high_brightness: 目录
-
 * [LumiaCao](#lumiacao)
   * [Database](#bamboodatabase)
     * [MySQL](#mysql)
     * [Redis](#redis)
   * [Distributed](#icecreamdistributed)
-  * [Docker](#balloondocker)
-  * [Java](#dartjava)
-  * [MQ](#fish_cakemq)
+  * [Docker](#whale-docker)
+  * [Java](#-java)
+  * [Go](#-go)
+  * [MQ](#fish_cake-mq)
     * [Kafka](#kafka)
 
 ## :bamboo:Database
