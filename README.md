@@ -53,6 +53,8 @@
 
 ## :icecream:Distributed
 
+- [分布式理论](https://img.caoyuqian.cn/分布式理论.png)
+- [Paxos算法](https://img.caoyuqian.cn/Paxos.png)
 - [Raft共识算法](https://img.caoyuqian.cn/Raft.png)
 
 ## :whale: Docker
