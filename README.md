@@ -56,6 +56,8 @@
 - [分布式理论](https://img.caoyuqian.cn/分布式理论.png)
 - [Paxos算法](https://img.caoyuqian.cn/Paxos.png)
 - [Raft共识算法](https://img.caoyuqian.cn/Raft.png)
+- [Gossip协议-最终一致性](https://img.caoyuqian.cn/Gossip协议.png)
+- [Quorum NWR 自定义一致性级别](https://img.caoyuqian.cn/Quorum-NWR.png)
 
 ## :whale: Docker
 
